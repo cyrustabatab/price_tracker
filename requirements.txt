@@ -1,5 +1,5 @@
-flask=0.12.2
-pymongo=3.03
+flask==0.12.2
+pymongo==3.03
 beautifulsoup4==4.4.1
 requests==2.0.0
 passlib==1.6.5
