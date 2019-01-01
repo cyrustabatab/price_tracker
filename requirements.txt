@@ -1,6 +1,6 @@
 flask==0.12.2
-pymongo==3.03
+pymongo==3.2,1
 beautifulsoup4==4.4.1
-requests==2.0.0
+requests==2.8.0
 passlib==1.6.5
 uwsgi
