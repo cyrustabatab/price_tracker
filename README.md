@@ -1,4 +1,4 @@
-#Pricing Tracker
+# Pricing Tracker
 
 
 A web application written using Flask and Python that allows for users to track the prices of items
