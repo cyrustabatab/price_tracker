@@ -1,8 +1,8 @@
 import uuid
-import models.users.errors as UserErrors
-from common.database import Database
-from common.utils import Utils
-from models.alert.alert import Alert
+import src.models.users.errors as UserErrors
+from src.common.database import Database
+from src.common.utils import Utils
+from src.models.alert.alert import Alert
 class User:
 
 
